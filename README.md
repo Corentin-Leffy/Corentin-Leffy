@@ -13,11 +13,10 @@
 🎯 I am also a Dart mentor on the [Exercism.io](https://exercism.io/profiles/Corentin-Leffy) site to help students learn a new language while solving small programming problems. I have currently supported more than 400 students 🎉
 
 I can bring you my expertise at an operational level:
-🚀 project start-up, MVP
-📝 feature development & bug fixes on an existing project
-🤖 Android application development
-✅ strategy of automated tests, refactoring and reduction of technical debt
-
+- 🚀 project start-up, MVP
+- 📝 feature development & bug fixes on an existing project
+- 🤖 Android application development
+- ✅ strategy of automated tests, refactoring and reduction of technical debt
 
 Do not hesitate to contact me, I will answer you with pleasure as soon as possible
 
